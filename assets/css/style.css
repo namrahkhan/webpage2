@@ -1,0 +1,8 @@
+.carousel-item {
+   
+    height: 32rem;
+}
+.carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+}
