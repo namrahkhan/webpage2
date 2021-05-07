@@ -1,0 +1,25 @@
+/*.container{
+    margin-top: 200px;
+}
+.container-fluid{
+    margin-top: -200px;
+}*/
+.grid{
+    margin-top: 50px;
+    
+}
+.image{
+    margin-top: -38px;
+    margin-left: 70px;
+    margin-bottom: -80px;
+}
+.bg-dark{
+    margin-bottom: 20px;
+}
+.bg-light{
+    margin-bottom: 20px;
+}
+.footer{
+    margin-top:100px;
+    background-color:rgb(227, 238, 241);
+}
